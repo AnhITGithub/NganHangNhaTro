@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BTL_WEB_NC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTL_WEB_NC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\CommonLayout.css",
+      "PackagePath": "staticwebassets\\css\\CommonLayout.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\PhanQuyen.css",
+      "PackagePath": "staticwebassets\\css\\PhanQuyen.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\UserInfoHouseBooking.css",
+      "PackagePath": "staticwebassets\\css\\UserInfoHouseBooking.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\indexAdmin.css",
+      "PackagePath": "staticwebassets\\css\\indexAdmin.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\jstree.css",
+      "PackagePath": "staticwebassets\\css\\jstree.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\styleHouseDetail.css",
+      "PackagePath": "staticwebassets\\css\\styleHouseDetail.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\styleIndex.css",
+      "PackagePath": "staticwebassets\\css\\styleIndex.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\styleLogin.css",
+      "PackagePath": "staticwebassets\\css\\styleLogin.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\styleRegister.css",
+      "PackagePath": "staticwebassets\\css\\styleRegister.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\css\\userInfo.css",
+      "PackagePath": "staticwebassets\\css\\userInfo.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\Ngân hàng nhà trọ.png",
+      "PackagePath": "staticwebassets\\images\\Ngân hàng nhà trọ.png"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\anhhalinh.jpg",
+      "PackagePath": "staticwebassets\\images\\anhhalinh.jpg"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\arrow-down-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\images\\arrow-down-svgrepo-com.svg"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\halinh2.jpg",
+      "PackagePath": "staticwebassets\\images\\halinh2.jpg"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\imageSearchErrorr.png",
+      "PackagePath": "staticwebassets\\images\\imageSearchErrorr.png"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\image_admin.jpg",
+      "PackagePath": "staticwebassets\\images\\image_admin.jpg"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\image_user.jpg",
+      "PackagePath": "staticwebassets\\images\\image_user.jpg"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\plus-circle-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\images\\plus-circle-svgrepo-com.svg"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\reload.svg",
+      "PackagePath": "staticwebassets\\images\\reload.svg"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\search-alt-2-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\images\\search-alt-2-svgrepo-com.svg"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\js\\Home.js",
+      "PackagePath": "staticwebassets\\js\\Home.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\js\\HouseDetail.js",
+      "PackagePath": "staticwebassets\\js\\HouseDetail.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\js\\UserManage.js",
+      "PackagePath": "staticwebassets\\js\\UserManage.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\js\\UserModifile.js",
+      "PackagePath": "staticwebassets\\js\\UserModifile.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\js\\bookingCalender.js",
+      "PackagePath": "staticwebassets\\js\\bookingCalender.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\js\\register.js",
+      "PackagePath": "staticwebassets\\js\\register.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\HOU Document\\WebNC\\OnTap\\BTL_WEB_NC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BTL_WEB_NC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BTL_WEB_NC.props",
+      "PackagePath": "build\\BTL_WEB_NC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BTL_WEB_NC.props",
+      "PackagePath": "buildMultiTargeting\\BTL_WEB_NC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BTL_WEB_NC.props",
+      "PackagePath": "buildTransitive\\BTL_WEB_NC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
